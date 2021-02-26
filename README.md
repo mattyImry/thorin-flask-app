@@ -1,45 +1,31 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# **_Thorin and Company_**
 
-Welcome USER_NAME,
+This project is a tutorial compiled by [Code Institute](https://codeinstitute.net/). This tutorial will illustrate the Python capabilities used in conjunction with [Flask Framework](https://flask.palletsprojects.com/en/1.1.x/) for the Backend module.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The app will be deployed with [Heroku](https://www.heroku.com/).
 
-## Gitpod Reminders
+Live app can be found here : https://thorin-app-matty.herokuapp.com/
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## **_Credits_**
 
-`python3 -m http.server`
+[Code Institute](https://codeinstitute.net/) designed the tutorial.
 
-A blue button should appear to click: *Make Public*,
+The project was realized with the use of templates taken from [Startbootstrap](https://startbootstrap.com/).
 
-Another blue button should appear to click: *Open Browser*.
+The text for the description of the characters and the text for the story is taken from [Fandon Wiki](https://lotr.fandom.com/wiki/Thorin_and_Company).
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The pictures are taken from:  
+https://upload.wikimedia.org/wikipedia/en/e/ed/Thorin%2C_from_the_Hobbit.jpg 
+http://www.filmofilia.com/wp-content/uploads/2011/07/hobbit_0.jpg  
+https://images.tvnz.co.nz/tvnz_images/hobbit_news/2012/10/dwarf_oin_hobbit_E1.jpg  
+https://vignette.wikia.nocookie.net/lotr/images/f/fc/Gloin_2.jpg/revision/latest/scale-to-width-down/350?cb=20120908171710  
+https://vignette2.wikia.nocookie.net/lotr/images/5/52/Balin.jpg/revision/latest?cb=20120911171656  
+https://vignette2.wikia.nocookie.net/lotr/images/1/1c/Dwalin.jpg/revision/latest?cb=20120911200601  
+https://i.pinimg.com/originals/8a/71/e5/8a71e5d503ecaafa020c6d317e732ce5.jpg  
+https://vignette.wikia.nocookie.net/lotr/images/2/27/Mark_Hadlow_as_Dori.jpg/revision/latest?cb=20121030113353  
+https://atolkienistperspective.files.wordpress.com/2013/08/n1.jpg  
+http://3.bp.blogspot.com/-VcKDsohCNkM/ULfdv7o8l7I/AAAAAAAABtk/j9ZNGzxAGH0/s1600/Bifur+dwarf+The+Hobbit+Wallpaper.jpg  
+https://atolkienistperspective.files.wordpress.com/2013/08/bofur-1.jpg  
+https://atolkienistperspective.files.wordpress.com/2013/08/bombur-1.jpg  
+https://vignette.wikia.nocookie.net/lotr/images/8/8d/Gandalf-2.jpg/revision/latest?cb=20130209172436  
 
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
